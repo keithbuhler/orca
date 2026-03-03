@@ -1,45 +1,42 @@
 ---
 layout: page
-title: About this Project
+title: A HOUSE WITH A STORY
 description: This deal is nuts!
-featured_image: aboutPage.jpg
+featured_image: aboutPage.png
 ---
 
-A HOUSE WITH A STORY
+We're so proud to announce that we have got a beautiful, one of a kind, coastal property under contract. 
 
-We've got a beautiful, one of a kind, coastal property under contract. 
-
-It's kind of home you work your whole life to be able to afford and live in. 
+It's kind of home you work your whole life to have the chance to live in. 
 
 But!
 
-It needs work. 
 
-It's been abandoned... 
+As of late 2025... It needed work. 
 
-It's open to the elements...
+It had been abandoned... 
 
-The original owner is alive but incapacitated. The trust is selling it off for pennies. 
+The wrap was failing.
 
-A normal homebuyer won't touch it. The neighbors can't stand it! Investors reflexively put in offers but didn't count the cost... 
+The original owner was no longer able to live there or continue the project. 
 
-Sure, it's location location location ... panoramic view of the ocean; half mile walk to the beach; enjoy Morro Rock while washing the dishes.
+Sure, a normal homebuyer wouldn't touch it. The neighbors couldn't stand it! 
+
+Investors reflexively put in offers but didn't count the cost... 
+
+It's location location location ... panoramic view of the ocean; half mile walk to the beach; enjoy Morro Rock while washing the dishes.
 
 But! 
 
 What homeowner is going to put in that work on a house they can't live in? 
 
-What flipper is going to do his due diligence? 
-
 Who wants to deal with the city, permitting, months of effort? 
 
-Well, I actually drove to the property and saw the damage. 
-
-I heard about the legacy. 
+I actually drove to the property and saw the damage. More importantly, I heard about the legacy. 
 
 I researched the original owner and builder -- a beautiful soul with a unique vision. 
 
-His wife just passed away. 
+His wife recently passed away -- may her memory be eternal. 
 
 This is a piece of his legacy. 
 
