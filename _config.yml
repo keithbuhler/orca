@@ -9,7 +9,7 @@
 title: "498 Orcas St, Morro Bay CA"
 
 # Below the site title
-tagline: "The story of a restoration"
+tagline: "Restoring the Best View in Morro Bay"
 
 # Site logo
 logo:
@@ -37,9 +37,9 @@ navigation:
 
 # Author information - author info at the bottom of the post
 author_name: "Dionysius Buhler"
-author_bio: "My name is Dr Dionysius \"Keith\" Buhler. I'm an entrepreneur, educator, and builder."
+author_bio: "My name is Dionysius (\"Keith\"). I'm an entrepreneur and educator. I build things and inspire people."
 author_url: "https://www.keithbuhler.com"
-author_location: "Sunny California"
+author_location: "CA"
 author_image: authorimage.jpg
 
 # Footer ad banner
