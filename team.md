@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Team 
-description: This deal is nuts!
+description: Thanks to you 
 featured_image: mitch.jpeg
 ---
 
@@ -13,10 +13,13 @@ Orca Real Estate LLC is a project of many hands. Our successful completion of th
 
 * Redpoint CRE: underwriting and financial analysis
 * Swift Capital: hard money and construction lender
-* She Helps:  realtor
-* Neil Miller: architect
+* She Helps Homeowners: realty, strategy, and marketing
+* Exceed: architectural 
 * Morro Bay City: oversight, acocuntability, and permitting
 * Abundant Life Capital: limited partner
 
 * Many cool neighbors: cheerleading!
+* Starbucks: fueling many an early morning rush!
+
+* _You_: spreading the word about this opportunity
 

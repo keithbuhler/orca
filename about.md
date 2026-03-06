@@ -2,7 +2,7 @@
 layout: page
 title: A HOUSE WITH A STORY
 description: This deal is nuts!
-featured_image: mitch.jpeg
+featured_image: walk-to-beach.png
 ---
 
 We're so proud to announce that we are in escrow on this beautiful, one of a kind, coastal property. 
@@ -47,10 +47,14 @@ It deserves to have a new owner who will love it.
 
 Yes it's work -- but my team has tackled big projects. We have 20 deals under our belt. A 26 unit apartment. A CA forest house. Almost a dozen flips. 
 
-We think we can do it. With the right partners, the right mindset, the right contractors, the right timeline. 
+We can do this.
 
-We think we can win over the city to trust us and help us. We think the financial incentive is aligned with the incentive of putting this precious lot back into the hands of homeowners. 
+With the right partners, the right mindset, the right contractors, the right timeline, we can get it done. 
+
+Earn the trust of the city and neighbors. Align financial incentives of backers with the incentive of the neighborhood to get this precious lot back into the hands of another homeowner. 
 
 Morro Bay only *has* 5000 places to live. This one home is .0002% of the entire housing market. We think the buyers will come. 
 
-Very excited to embark on this journey and share the love with the right partners, contractors, realtors, and neighbors. 
+We are excited and blessed to embark on this journey and share the love with our partners, contractors, realtors, and neighbors. 
+
+Follow along and share the word!
