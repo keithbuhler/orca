@@ -30,16 +30,16 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Front Page 
     url: /orca/
-  - text: About the Home 
+  - text: The Property
     url: /orca/about/
   - text: The Team 
     url: /orca/team/
 
 # Author information - author info at the bottom of the post
 author_name: "Dionysius Buhler"
-author_bio: "My name is Dionysius (\"Keith\"). I'm an entrepreneur and educator, and the founder of Orca Real Estate. We build things and complete inspiration restoration projects."
+author_bio: "My name is Dionysius (\"Keith\"). I'm an entrepreneur and educator, and the founder of Orca Real Estate. We build things and complete inspiring restoration projects."
 author_url: "https://www.keithbuhler.com"
 author_location: "CA"
 author_image: authorimage.jpg
