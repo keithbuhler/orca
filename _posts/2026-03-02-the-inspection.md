@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Even the appraiser is stoked"
+title:  "Local builder is stoked"
 date:   2026-03-02
 featured_image: orca1.png
 tags: [Valuation]
 ---
 
-The appraisal was a man with deep experience in building and evaluating in this town. He couldn't say enough about the project. Was so excited for us!
+We had the property inspected by a a man with deep experience in building and evaluating in this town. He couldn't say enough about the project. He was excited for us. 
 
 The square footage in Morro Bay remains relatively high. 
 
